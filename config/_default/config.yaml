@@ -38,7 +38,6 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  tags: '/tag/:slug/'
   categories: '/category/:slug/'
 disableAliases: true
 outputs:
