@@ -44,10 +44,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mjshariti98@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/mjshariati98
-    label: Follow me on Twitter
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/mjshariati98
+  #   label: Follow me on Twitter
   - icon: github
     icon_pack: fab
     link: https://github.com/mjshariati98
