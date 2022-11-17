@@ -40,9 +40,9 @@ experience:
 
 
   - title: Software Engineer Intern
-    company: Cafe Bazaar
-    company_url: 'https://cafebazaar.ir/app?l=en'
-    company_logo: bazaar
+    company: Sotoon
+    company_url: 'https://sotoon.ir/'
+    company_logo: sotoon
     location: Tehran, Iran
     date_start: '2019-07-15'
     date_end: '2029-09-30'
