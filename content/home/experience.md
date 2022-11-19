@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineer
+  - title: Site Reliability Engineer
     company: Sotoon
     company_url: 'https://sotoon.ir/'
     company_logo: sotoon

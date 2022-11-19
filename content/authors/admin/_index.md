@@ -10,7 +10,7 @@ last_name: Shariati
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Site Reliability Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,6 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a computer science graduate from Sharif University of Technology, currently working as a Software Engineer at Sotoon - building a scalable, high-performance platform to transfer, store, and analyze big data in a Platform-as-a-Service (PaaS) environment.
+I am a computer science graduate from Sharif University of Technology, currently working as a Site Reliability Engineer at Sotoon - building a scalable, high-performance platform to transfer, store, and analyze big data in a Platform-as-a-Service (PaaS) environment.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} for more.
