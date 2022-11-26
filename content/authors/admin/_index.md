@@ -24,10 +24,10 @@ bio:
 interests:
   - Software Engineering
   - Computer Networks
-  - Security
   - Distributed Systems
   - Big Data
   - Databases
+  - Security
 
 # Education to show in About widget
 education:
