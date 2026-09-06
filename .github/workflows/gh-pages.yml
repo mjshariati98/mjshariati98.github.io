@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      HUGO_VERSION: 0.152.2
+      HUGO_VERSION: 0.108.0
       HUGO_ENVIRONMENT: production
 
     steps:
