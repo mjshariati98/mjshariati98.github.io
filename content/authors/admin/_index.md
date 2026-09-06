@@ -71,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a computer science graduate from Sharif University of Technology, currently working as a Platform Engineer at Erste Digital - 
+I am a Platform Engineer at Erste Digital (George) with a background in Computer Science from Sharif University of Technology. I work on designing, automating, and operating large-scale cloud infrastructure on AWS for a digital banking platform serving millions of customers across several European countries. My interests include Site Reliability Engineering, Cloud Engineering, Kubernetes, Infrastructure as Code, Software Engineering, Distributed Systems, and System Design.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} for more.
