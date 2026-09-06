@@ -6,6 +6,11 @@ on:
       - main  # Set a branch name to trigger deployment
   pull_request:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   # Single deploy job no building
   deploy:
