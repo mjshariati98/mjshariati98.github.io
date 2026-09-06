@@ -22,53 +22,53 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
 - title: Platform Engineer
-    company: Erste Digital
-    company_url: 'https://www.erstedigital.com/'
-    company_logo: erstedigital
-    location: Vienna, Austria
-    date_start: '2023-05-01'
-    date_end: ''
-    description: |2-
-        * Managed and maintained large-scale AWS infrastructure across 50+ environments through Infrastructure as Code (IaC) practices for a digital banking platform serving more than 11 million customers in 7 countries
-        * Designed and implemented the migration of Jenkins infrastructure from on-premises servers to AWS, achieving up to 5x faster CI/CD pipeline performance across workloads
-        * Designed and implemented the migration from AWS CloudFormation to Terraform, redesigning infrastructure as code into reusable modules to improve scalability, consistency, and maintainability
-        * Architected and implemented an automation mechanism that eliminated manual intervention in the release workflow, enabling fully automated deployments and handover of release ownership to the Operations team
-        * Developed a custom Helm chart caching strategy for application deployment workflows, reducing pipeline execution time from 12 to 4 minutes and improving developer experience through faster feedback cycles 
-        * Designed and implemented private connectivity between Jenkins and Amazon EKS clusters across multiple AWS accounts, enabling secure cross-account deployments without exposing Kubernetes API endpoints
+  company: Erste Digital
+  company_url: 'https://www.erstedigital.com/'
+  company_logo: erstedigital
+  location: Vienna, Austria
+  date_start: '2023-05-01'
+  date_end: ''
+  description: |2-
+    * Managed and maintained large-scale AWS infrastructure across 50+ environments through Infrastructure as Code (IaC) practices for a digital banking platform serving more than 11 million customers in 7 countries
+    * Designed and implemented the migration of Jenkins infrastructure from on-premises servers to AWS, achieving up to 5x faster CI/CD pipeline performance across workloads
+    * Designed and implemented the migration from AWS CloudFormation to Terraform, redesigning infrastructure as code into reusable modules to improve scalability, consistency, and maintainability
+    * Architected and implemented an automation mechanism that eliminated manual intervention in the release workflow, enabling fully automated deployments and handover of release ownership to the Operations team
+    * Developed a custom Helm chart caching strategy for application deployment workflows, reducing pipeline execution time from 12 to 4 minutes and improving developer experience through faster feedback cycles 
+    * Designed and implemented private connectivity between Jenkins and Amazon EKS clusters across multiple AWS accounts, enabling secure cross-account deployments without exposing Kubernetes API endpoints
 
 
 
-  - title: Site Reliability Engineer
-    company: Sotoon
-    company_url: 'https://sotoon.ir/'
-    company_logo: sotoon
-    location: Tehran, Iran
-    date_start: '2019-10-01'
-    date_end: '2023-05-31'
-    description: |2-
-        * Built a platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing applications with more than 110 million active users across Android, iOS, and Web
-        * Developed Kubernetes operators to manage Apache {Kafka, Hadoop, ZooKeeper} clusters in a Platform-as-a-Service (PaaS) environment to reduce cluster creation and maintenance costs
-        * Designed and developed a highly-available Wireguard and BGP-based cloud VPN solution with 99.9% uptime using Kubernetes operators 
-        * Designed and developed CI/CD pipelines for Kubernetes operators to make the development and deployment process faster and safer
-        * Maintained Apache {Druid, Kafka, Hadoop HDFS, Hadoop YARN, Spark, ZooKeeper} and Elastic Stack (ELK) clusters/services in an on-premise environment with 99.9% availability
-        * Set up and maintained Monitoring and Alerting stack (Prometheus, Alertmanager, Grafana, and M3DB as long-term storage) and defined and tuned symptom-based alerts to reduce false alarms by 70%
-        * Set up and maintained Kerberized Hadoop clusters to provide per-user authentication and authorization
-        * Created mentorship documents and mentored new team members
-        * Created maintenance and troubleshooting documents for team resources, clusters, and services to effectively train new and existing team members, share knowledge, and distribute responsibilities
+- title: Site Reliability Engineer
+  company: Sotoon
+  company_url: 'https://sotoon.ir/'
+  company_logo: sotoon
+  location: Tehran, Iran
+  date_start: '2019-10-01'
+  date_end: '2023-05-31'
+  description: |2-
+    * Built a platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing applications with more than 110 million active users across Android, iOS, and Web
+    * Developed Kubernetes operators to manage Apache {Kafka, Hadoop, ZooKeeper} clusters in a Platform-as-a-Service (PaaS) environment to reduce cluster creation and maintenance costs
+    * Designed and developed a highly-available Wireguard and BGP-based cloud VPN solution with 99.9% uptime using Kubernetes operators 
+    * Designed and developed CI/CD pipelines for Kubernetes operators to make the development and deployment process faster and safer
+    * Maintained Apache {Druid, Kafka, Hadoop HDFS, Hadoop YARN, Spark, ZooKeeper} and Elastic Stack (ELK) clusters/services in an on-premise environment with 99.9% availability
+    * Set up and maintained Monitoring and Alerting stack (Prometheus, Alertmanager, Grafana, and M3DB as long-term storage) and defined and tuned symptom-based alerts to reduce false alarms by 70%
+    * Set up and maintained Kerberized Hadoop clusters to provide per-user authentication and authorization
+    * Created mentorship documents and mentored new team members
+    * Created maintenance and troubleshooting documents for team resources, clusters, and services to effectively train new and existing team members, share knowledge, and distribute responsibilities
 
 
 
-  - title: Software Engineer Intern
-    company: Sotoon
-    company_url: 'https://sotoon.ir/'
-    company_logo: sotoon
-    location: Tehran, Iran
-    date_start: '2019-07-15'
-    date_end: '2029-09-30'
-    description: |2-
-        * Implemented RESTful APIs using Django and a CLI in GoLang to learn best practices, clean code, code review principles, and working in an agile team
+- title: Software Engineer Intern
+  company: Sotoon
+  company_url: 'https://sotoon.ir/'
+  company_logo: sotoon
+  location: Tehran, Iran
+  date_start: '2019-07-15'
+  date_end: '2029-09-30'
+  description: |2-
+    * Implemented RESTful APIs using Django and a CLI in GoLang to learn best practices, clean code, code review principles, and working in an agile team
+
 design:
   columns: '2'
 ---
