@@ -22,13 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+- title: Platform Engineer
+    company: Erste Digital
+    company_url: 'https://www.erstedigital.com/'
+    company_logo: erstedigital
+    location: Vienna, Austria
+    date_start: '2023-05-01'
+    date_end: ''
+    description: |2-
+        * Managed and maintained large-scale AWS infrastructure across 50+ environments through Infrastructure as Code (IaC) practices for a digital banking platform serving more than 11 million customers in 7 countries
+        * Designed and implemented the migration of Jenkins infrastructure from on-premises servers to AWS, achieving up to 5x faster CI/CD pipeline performance across workloads
+        * Designed and implemented the migration from AWS CloudFormation to Terraform, redesigning infrastructure as code into reusable modules to improve scalability, consistency, and maintainability
+        * Architected and implemented an automation mechanism that eliminated manual intervention in the release workflow, enabling fully automated deployments and handover of release ownership to the Operations team
+        * Developed a custom Helm chart caching strategy for application deployment workflows, reducing pipeline execution time from 12 to 4 minutes and improving developer experience through faster feedback cycles 
+        * Designed and implemented private connectivity between Jenkins and Amazon EKS clusters across multiple AWS accounts, enabling secure cross-account deployments without exposing Kubernetes API endpoints
+
+
+
   - title: Site Reliability Engineer
     company: Sotoon
     company_url: 'https://sotoon.ir/'
     company_logo: sotoon
     location: Tehran, Iran
     date_start: '2019-10-01'
-    date_end: ''
+    date_end: '2023-05-31'
     description: |2-
         * Built a platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing applications with more than 110 million active users across Android, iOS, and Web
         * Developed Kubernetes operators to manage Apache {Kafka, Hadoop, ZooKeeper} clusters in a Platform-as-a-Service (PaaS) environment to reduce cluster creation and maintenance costs

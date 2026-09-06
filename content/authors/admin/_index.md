@@ -10,18 +10,20 @@ last_name: Shariati
 superuser: true
 
 # Role/position/tagline
-role: Site Reliability Engineer
+role: Platform Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sotoon
-    url: https://www.sotoon.ir/
+  - name: Erste Digital
+    url: https://www.erstedigital.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
 interests:
+  - Kubernetes
+  - AWS
   - Software Engineering
   - Computer Networks
   - Distributed Systems
@@ -69,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a computer science graduate from Sharif University of Technology, currently working as a Site Reliability Engineer at Sotoon - building a scalable, high-performance platform to transfer, store, and analyze big data in a Platform-as-a-Service (PaaS) environment.
+I am a computer science graduate from Sharif University of Technology, currently working as a Platform Engineer at Erste Digital - 
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} for more.
