@@ -24,6 +24,7 @@ bio:
 interests:
   - Kubernetes
   - AWS
+  - System Design
   - Software Engineering
   - Computer Networks
   - Distributed Systems
