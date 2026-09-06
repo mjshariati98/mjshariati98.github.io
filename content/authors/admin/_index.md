@@ -28,9 +28,6 @@ interests:
   - Software Engineering
   - Computer Networks
   - Distributed Systems
-  - Big Data
-  - Databases
-  - Security
 
 # Education to show in About widget
 education:
